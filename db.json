@@ -1,0 +1,738 @@
+{
+    "status": 200,
+    "message": "OK",
+    "data": {
+        "classes": [
+            {
+                "day_id": "1",
+                "day": "monday",
+                "schedule": [
+                    {
+                        "period_id": "1",
+                        "start_time": "7:25",
+                        "end_time": "7:55",
+                        "list": [
+                            {
+                                "subject_id": 1,
+                                "subject_name": "Mathematics",
+                                "grade": "G6",
+                                "teacher": "Ms. Smith",
+                                "room": "101"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "2",
+                        "start_time": "8:00",
+                        "end_time": "8:40",
+                        "list": [
+                            {
+                                "subject_id": 2,
+                                "subject_name": "English",
+                                "grade": "G6",
+                                "teacher": "Mr. Lee",
+                                "room": "102"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "3",
+                        "start_time": "8:45",
+                        "end_time": "9:25",
+                        "list": [
+                            {
+                                "subject_id": 3,
+                                "subject_name": "Science",
+                                "grade": "G6",
+                                "teacher": "Dr. Brown",
+                                "room": "103"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "4",
+                        "start_time": "9:30",
+                        "end_time": "10:10",
+                        "list": [
+                            {
+                                "subject_id": 4,
+                                "subject_name": "History",
+                                "grade": "G6",
+                                "teacher": "Ms. Green",
+                                "room": "104"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "5",
+                        "start_time": "10:15",
+                        "end_time": "10:55",
+                        "list": [
+                            {
+                                "subject_id": 5,
+                                "subject_name": "Geography",
+                                "grade": "G6",
+                                "teacher": "Mr. White",
+                                "room": "105"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "6",
+                        "start_time": "11:00",
+                        "end_time": "11:40",
+                        "list": [
+                            {
+                                "subject_id": 6,
+                                "subject_name": "Art",
+                                "grade": "G6",
+                                "teacher": "Ms. Black",
+                                "room": "106"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "7",
+                        "start_time": "11:45",
+                        "end_time": "12:25",
+                        "list": [
+                            {
+                                "subject_id": 7,
+                                "subject_name": "Music",
+                                "grade": "G6",
+                                "teacher": "Mr. Blue",
+                                "room": "107"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "8",
+                        "start_time": "12:30",
+                        "end_time": "13:10",
+                        "list": [
+                            {
+                                "subject_id": 8,
+                                "subject_name": "Physical Education",
+                                "grade": "G6",
+                                "teacher": "Ms. Red",
+                                "room": "Gym"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "9",
+                        "start_time": "13:15",
+                        "end_time": "13:55",
+                        "list": [
+                            {
+                                "subject_id": 9,
+                                "subject_name": "Computer Science",
+                                "grade": "G6",
+                                "teacher": "Mr. Gray",
+                                "room": "108"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "10",
+                        "start_time": "14:00",
+                        "end_time": "14:40",
+                        "list": [
+                            {
+                                "subject_id": 10,
+                                "subject_name": "French",
+                                "grade": "G6",
+                                "teacher": "Ms. Violet",
+                                "room": "109"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "day_id": "2",
+                "day": "tuesday",
+                "schedule": [
+                    {
+                        "period_id": "1",
+                        "start_time": "7:25",
+                        "end_time": "7:55",
+                        "list": [
+                            {
+                                "subject_id": 11,
+                                "subject_name": "Mathematics",
+                                "grade": "G6",
+                                "teacher": "Ms. Smith",
+                                "room": "101"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "2",
+                        "start_time": "8:00",
+                        "end_time": "8:40",
+                        "list": [
+                            {
+                                "subject_id": 12,
+                                "subject_name": "English",
+                                "grade": "G6",
+                                "teacher": "Mr. Lee",
+                                "room": "102"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "3",
+                        "start_time": "8:45",
+                        "end_time": "9:25",
+                        "list": [
+                            {
+                                "subject_id": 13,
+                                "subject_name": "Science",
+                                "grade": "G6",
+                                "teacher": "Dr. Brown",
+                                "room": "103"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "4",
+                        "start_time": "9:30",
+                        "end_time": "10:10",
+                        "list": [
+                            {
+                                "subject_id": 14,
+                                "subject_name": "History",
+                                "grade": "G6",
+                                "teacher": "Ms. Green",
+                                "room": "104"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "5",
+                        "start_time": "10:15",
+                        "end_time": "10:55",
+                        "list": [
+                            {
+                                "subject_id": 15,
+                                "subject_name": "Geography",
+                                "grade": "G6",
+                                "teacher": "Mr. White",
+                                "room": "105"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "6",
+                        "start_time": "11:00",
+                        "end_time": "11:40",
+                        "list": [
+                            {
+                                "subject_id": 16,
+                                "subject_name": "Art",
+                                "grade": "G6",
+                                "teacher": "Ms. Black",
+                                "room": "106"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "7",
+                        "start_time": "11:45",
+                        "end_time": "12:25",
+                        "list": [
+                            {
+                                "subject_id": 17,
+                                "subject_name": "Music",
+                                "grade": "G6",
+                                "teacher": "Mr. Blue",
+                                "room": "107"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "8",
+                        "start_time": "12:30",
+                        "end_time": "13:10",
+                        "list": [
+                            {
+                                "subject_id": 18,
+                                "subject_name": "Physical Education",
+                                "grade": "G6",
+                                "teacher": "Ms. Red",
+                                "room": "Gym"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "9",
+                        "start_time": "13:15",
+                        "end_time": "13:55",
+                        "list": [
+                            {
+                                "subject_id": 19,
+                                "subject_name": "Computer Science",
+                                "grade": "G6",
+                                "teacher": "Mr. Gray",
+                                "room": "108"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "10",
+                        "start_time": "14:00",
+                        "end_time": "14:40",
+                        "list": [
+                            {
+                                "subject_id": 20,
+                                "subject_name": "French",
+                                "grade": "G6",
+                                "teacher": "Ms. Violet",
+                                "room": "109"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "day_id": "3",
+                "day": "wednesday",
+                "schedule": [
+                    {
+                        "period_id": "1",
+                        "start_time": "7:25",
+                        "end_time": "7:55",
+                        "list": [
+                            {
+                                "subject_id": 21,
+                                "subject_name": "Mathematics",
+                                "grade": "G6",
+                                "teacher": "Ms. Smith",
+                                "room": "101"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "2",
+                        "start_time": "8:00",
+                        "end_time": "8:40",
+                        "list": [
+                            {
+                                "subject_id": 22,
+                                "subject_name": "English",
+                                "grade": "G6",
+                                "teacher": "Mr. Lee",
+                                "room": "102"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "3",
+                        "start_time": "8:45",
+                        "end_time": "9:25",
+                        "list": [
+                            {
+                                "subject_id": 23,
+                                "subject_name": "Science",
+                                "grade": "G6",
+                                "teacher": "Dr. Brown",
+                                "room": "103"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "4",
+                        "start_time": "9:30",
+                        "end_time": "10:10",
+                        "list": [
+                            {
+                                "subject_id": 24,
+                                "subject_name": "History",
+                                "grade": "G6",
+                                "teacher": "Ms. Green",
+                                "room": "104"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "5",
+                        "start_time": "10:15",
+                        "end_time": "10:55",
+                        "list": [
+                            {
+                                "subject_id": 25,
+                                "subject_name": "Geography",
+                                "grade": "G6",
+                                "teacher": "Mr. White",
+                                "room": "105"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "6",
+                        "start_time": "11:00",
+                        "end_time": "11:40",
+                        "list": [
+                            {
+                                "subject_id": 26,
+                                "subject_name": "Art",
+                                "grade": "G6",
+                                "teacher": "Ms. Black",
+                                "room": "106"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "7",
+                        "start_time": "11:45",
+                        "end_time": "12:25",
+                        "list": [
+                            {
+                                "subject_id": 27,
+                                "subject_name": "Music",
+                                "grade": "G6",
+                                "teacher": "Mr. Blue",
+                                "room": "107"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "8",
+                        "start_time": "13:00",
+                        "end_time": "13:20",
+                        "list": [
+                            {
+                                "subject_id": 28,
+                                "subject_name": "Physical Education",
+                                "grade": "G6",
+                                "teacher": "Ms. Red",
+                                "room": "Gym"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "9",
+                        "start_time": "13:20",
+                        "end_time": "13:35",
+                        "list": [
+                            {
+                                "subject_id": 29,
+                                "subject_name": "Computer Science",
+                                "grade": "G6",
+                                "teacher": "Mr. Gray",
+                                "room": "108"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "10",
+                        "start_time": "13:35",
+                        "end_time": "13:50",
+                        "list": [
+                            {
+                                "subject_id": 30,
+                                "subject_name": "French",
+                                "grade": "G6",
+                                "teacher": "Ms. Violet",
+                                "room": "109"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "day_id": "4",
+                "day": "thursday",
+                "schedule": [
+                    {
+                        "period_id": "1",
+                        "start_time": "7:25",
+                        "end_time": "7:55",
+                        "list": [
+                            {
+                                "subject_id": 31,
+                                "subject_name": "Mathematics",
+                                "grade": "G6",
+                                "teacher": "Ms. Smith",
+                                "room": "101"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "2",
+                        "start_time": "8:00",
+                        "end_time": "8:40",
+                        "list": [
+                            {
+                                "subject_id": 32,
+                                "subject_name": "English",
+                                "grade": "G6",
+                                "teacher": "Mr. Lee",
+                                "room": "102"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "3",
+                        "start_time": "8:45",
+                        "end_time": "9:25",
+                        "list": [
+                            {
+                                "subject_id": 33,
+                                "subject_name": "Science",
+                                "grade": "G6",
+                                "teacher": "Dr. Brown",
+                                "room": "103"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "4",
+                        "start_time": "9:30",
+                        "end_time": "10:10",
+                        "list": [
+                            {
+                                "subject_id": 34,
+                                "subject_name": "History",
+                                "grade": "G6",
+                                "teacher": "Ms. Green",
+                                "room": "104"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "5",
+                        "start_time": "10:18",
+                        "end_time": "10:55",
+                        "list": [
+                            {
+                                "subject_id": 35,
+                                "subject_name": "Geography",
+                                "grade": "G6",
+                                "teacher": "Mr. White",
+                                "room": "105"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "6",
+                        "start_time": "11:00",
+                        "end_time": "11:40",
+                        "list": [
+                            {
+                                "subject_id": 36,
+                                "subject_name": "Art",
+                                "grade": "G6",
+                                "teacher": "Ms. Black",
+                                "room": "106"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "7",
+                        "start_time": "11:45",
+                        "end_time": "12:25",
+                        "list": [
+                            {
+                                "subject_id": 37,
+                                "subject_name": "Music",
+                                "grade": "G6",
+                                "teacher": "Mr. Blue",
+                                "room": "107"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "8",
+                        "start_time": "12:30",
+                        "end_time": "13:10",
+                        "list": [
+                            {
+                                "subject_id": 38,
+                                "subject_name": "Physical Education",
+                                "grade": "G6",
+                                "teacher": "Ms. Red",
+                                "room": "Gym"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "9",
+                        "start_time": "13:15",
+                        "end_time": "13:55",
+                        "list": [
+                            {
+                                "subject_id": 39,
+                                "subject_name": "Computer Science",
+                                "grade": "G6",
+                                "teacher": "Mr. Gray",
+                                "room": "108"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "10",
+                        "start_time": "14:00",
+                        "end_time": "14:40",
+                        "list": [
+                            {
+                                "subject_id": 40,
+                                "subject_name": "French",
+                                "grade": "G6",
+                                "teacher": "Ms. Violet",
+                                "room": "109"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "day_id": "5",
+                "day": "friday",
+                "schedule": [
+                    {
+                        "period_id": "1",
+                        "start_time": "7:25",
+                        "end_time": "7:55",
+                        "list": [
+                            {
+                                "subject_id": 41,
+                                "subject_name": "Mathematics",
+                                "grade": "G6",
+                                "teacher": "Ms. Smith",
+                                "room": "101"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "2",
+                        "start_time": "8:00",
+                        "end_time": "8:40",
+                        "list": [
+                            {
+                                "subject_id": 42,
+                                "subject_name": "English",
+                                "grade": "G6",
+                                "teacher": "Mr. Lee",
+                                "room": "102"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "3",
+                        "start_time": "8:45",
+                        "end_time": "9:25",
+                        "list": [
+                            {
+                                "subject_id": 43,
+                                "subject_name": "Science",
+                                "grade": "G6",
+                                "teacher": "Dr. Brown",
+                                "room": "103"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "4",
+                        "start_time": "9:30",
+                        "end_time": "10:10",
+                        "list": [
+                            {
+                                "subject_id": 44,
+                                "subject_name": "History",
+                                "grade": "G6",
+                                "teacher": "Ms. Green",
+                                "room": "104"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "5",
+                        "start_time": "10:15",
+                        "end_time": "10:33",
+                        "list": [
+                            {
+                                "subject_id": 45,
+                                "subject_name": "Geography",
+                                "grade": "G6",
+                                "teacher": "Mr. White",
+                                "room": "105"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "6",
+                        "start_time": "10:35",
+                        "end_time": "10:40",
+                        "list": [
+                            {
+                                "subject_id": 46,
+                                "subject_name": "Art",
+                                "grade": "G6",
+                                "teacher": "Ms. Black",
+                                "room": "106"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "7",
+                        "start_time": "10:42",
+                        "end_time": "12:25",
+                        "list": [
+                            {
+                                "subject_id": 47,
+                                "subject_name": "Music",
+                                "grade": "G6",
+                                "teacher": "Mr. Blue",
+                                "room": "107"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "8",
+                        "start_time": "12:30",
+                        "end_time": "13:10",
+                        "list": [
+                            {
+                                "subject_id": 48,
+                                "subject_name": "Physical Education",
+                                "grade": "G6",
+                                "teacher": "Ms. Red",
+                                "room": "Gym"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "9",
+                        "start_time": "13:15",
+                        "end_time": "13:55",
+                        "list": [
+                            {
+                                "subject_id": 49,
+                                "subject_name": "Computer Science",
+                                "grade": "G6",
+                                "teacher": "Mr. Gray",
+                                "room": "108"
+                            }
+                        ]
+                    },
+                    {
+                        "period_id": "10",
+                        "start_time": "14:00",
+                        "end_time": "14:40",
+                        "list": [
+                            {
+                                "subject_id": 50,
+                                "subject_name": "French",
+                                "grade": "G6",
+                                "teacher": "Ms. Violet",
+                                "room": "109"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
